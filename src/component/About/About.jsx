@@ -32,7 +32,7 @@ export default function About() {
                             <p>20+ Completed</p>
                         </div>
                     </div>
-                    <p className='p'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet rerum reiciendis, sit facilis sint beatae nihil obcaecati exercitationem incidunt optio odit tenetur commodi dignissimos ea animi. Animi asperiores fuga officia?</p>
+                    <p className='p'>I am a Computer Engineering student at Latakia University and a Front-End intern at Focal X. I am passionate about developing modern web applications and constantly strive to expand my skills and stay updated with the latest technologies in the field. I enjoy working in a team environment and believe in delivering outstanding user experiences through effective design and high performance.</p>
                     <a href="#contact" className='btn btn-primary'>Let`s Talk </a>
                 </div>
             </div>

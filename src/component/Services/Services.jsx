@@ -11,17 +11,17 @@ export default function Services() {
         <article className='card'>
           <i class="fa-solid fa-wand-magic-sparkles icon"></i>
           <h3>Web Design</h3>
-          <p className='text-light'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente, temporibus!</p>
+          <p className='text-light'>I design attractive and user-friendly interfaces that focus on enhancing the user experience and meeting client needs.</p>
         </article>
         <article className='card'>
           <i class="fa-solid fa-rocket icon"></i>
           <h3>Fast Performance</h3>
-          <p className='text-light'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente, temporibus!</p>
+          <p className='text-light'>I ensure fast and efficient websites by optimizing performance and utilizing the latest technologies.</p>
         </article>
         <article className='card'>
           <i class="fa-solid fa-code icon"></i>
           <h3>Clean Code</h3>
-          <p className='text-light'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente, temporibus!</p>
+          <p className='text-light'>I write clean and well-structured code that is easy to read and maintain, ensuring a smoother development process.</p>
         </article>
       </div>
     </section>
