@@ -6,6 +6,7 @@
 }
 .container-services .card{
     width: 31%;
+    height: 304px;
     padding: 50px 40px ;
     background: var(--color-bg-variant);
     border-radius: 1rem;

@@ -1,11 +1,18 @@
 import React from 'react'
 import './Projects.css'
 import IMG1 from '../../assets/yourbank.jpg';
-import IMG2 from '../../assets/template.jpg';
-import IMG3 from '../../assets/booksaw.jpg';
+import IMG7 from '../../assets/template.jpg';
+import IMG9 from '../../assets/booksaw.jpg';
 import IMG4 from '../../assets/bondi.jpg';
 import IMG5 from '../../assets/extech.jpg';
 import IMG6 from '../../assets/crud.jpg';
+import IMG2 from '../../assets/BLOG.jpg';
+import IMG8 from '../../assets/dashbord.jpg';
+import IMG3 from '../../assets/little-learners.jpg';
+import IMG10 from '../../assets/currency-converter.jpg';
+import IMG11 from '../../assets/todo.jpg';
+import IMG12 from '../../assets/wather.jpg';
+
 export default function Projects() {
   const portfolioData = [
     {
@@ -18,16 +25,17 @@ export default function Projects() {
     {
       id: 2,
       image: IMG2,
-      title: 'Template',
-      github: 'https://github.com/AmeenAliFadel/template1',
-      demo: 'https://ameenalifadel.github.io/template1/'
+      title: 'BLOG',
+      github: 'https://github.com/AmeenAliFadel/Task6-adv',
+      demo: 'https://ameenalifadel.github.io/Task6-adv'
+
     },
     {
       id: 3,
       image: IMG3,
-      title: 'BOOKSAW',
-      github: 'https://github.com/AmeenAliFadel/Task-6',
-      demo: 'https://ameenalifadel.github.io/Task-6/'
+      title: 'Little Learners',
+      github: 'https://github.com/AmeenAliFadel/Little-Learners',
+      demo: 'https://ameenalifadel.github.io/Little-Learners'
     },
     {
       id: 4,
@@ -49,6 +57,52 @@ export default function Projects() {
       title: 'Crud System',
       github: 'https://github.com/AmeenAliFadel/crud-system',
       demo: 'https://ameenalifadel.github.io/crud-system/'
+    }
+    ,
+    {
+      id: 7,
+      image: IMG7,
+      title: 'Template',
+      github: 'https://github.com/AmeenAliFadel/template1',
+      demo: 'https://ameenalifadel.github.io/template1/'
+    }
+    ,
+    {
+      id: 8,
+      image: IMG8,
+      title: 'Dashbord',
+      github: 'https://github.com/AmeenAliFadel/Task-5-adv',
+      demo: 'https://ameenalifadel.github.io/Task-5-adv/'
+    }
+    ,
+    {
+      id: 9,
+      image: IMG9,
+      title: 'BOOKSAW',
+      github: 'https://github.com/AmeenAliFadel/Task-6',
+      demo: 'https://ameenalifadel.github.io/Task-6/'
+    },
+
+    {
+      id: 10,
+      image: IMG10,
+      title: 'Currency Converter',
+      github: 'https://github.com/AmeenAliFadel/currency-converter',
+      demo: 'https://ameenalifadel.github.io/currency-converter/'
+    },
+    {
+      id: 11,
+      image: IMG11,
+      title: 'Todo List',
+      github: 'https://github.com/AmeenAliFadel/To-Do-List-',
+      demo: 'https://ameenalifadel.github.io/To-Do-List-/'
+    },
+    {
+      id: 12,
+      image: IMG12,
+      title: 'weather app',
+      github: 'https://github.com/AmeenAliFadel/weather-app',
+      demo: 'https://ameenalifadel.github.io/weather-app/'
     }
   ];
 

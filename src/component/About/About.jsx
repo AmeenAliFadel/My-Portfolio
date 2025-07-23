@@ -21,11 +21,7 @@ export default function About() {
                             <h5>Experience</h5>
                             <p>1+ years working</p>
                         </div>
-                        <div className="about-card">
-                            <i class="fa-solid fa-users about-icon"></i>
-                            <h5>Clients</h5>
-                            <p>200+ worldwide </p>
-                        </div>
+                    
                         <div className="about-card">
                             <i class="fa-solid fa-folder-tree about-icon"></i>
                             <h5>Projects</h5>

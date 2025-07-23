@@ -1,4 +1,4 @@
-import React ,{useRef} from 'react'
+import {useRef} from 'react'
 import './Contact.css'
 
 import emailjs from '@emailjs/browser'
@@ -7,7 +7,7 @@ const ContactData = [
     id:1,
     icon: <i className="fa-solid fa-envelope"></i>,
     title:"Email",
-    info: "ameenfadel820 @gmail.com",
+    info: "ameenfadel820@gmail.com",
   },
   {
     id:1,

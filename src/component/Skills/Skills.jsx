@@ -6,6 +6,9 @@ import JS from '../../assets/javascript.svg'
 import Bootstrap from '../../assets/bootstrap.png'
 import reactImg from '../../assets/react.svg'
 import figma from '../../assets/figma.svg'
+import tailwind from '../../assets/tailwind.png'
+import next from '../../assets/next.png'
+import redux from '../../assets/redux.png'
 const SkillsData = [
   {
     id: 1,
@@ -44,6 +47,24 @@ const SkillsData = [
     image: figma,
     title: 'Figma',
     disc: 'Design tool',
+  },
+  {
+    id: 7,
+    image: tailwind,
+    title: 'Tailwind',
+    disc: 'User Interface',
+  },
+  {
+    id: 8,
+    image: next,
+    title: 'Next JS',
+    disc: 'Framework',
+  },
+  {
+    id: 9,
+    image: redux,
+    title: 'Redux',
+    disc: 'State Mangment',
   },
   
   
